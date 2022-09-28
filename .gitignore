@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+SFND_Lidar_Obstacle_Detection/build/*
+SFND_Lidar_Obstacle_Detection/Thirdparty/build
